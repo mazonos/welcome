@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mazon Welcome
+Comment=Tela de Boas Vindas
+Exec=/usr/bin/mazonwelcome.sh
+Icon=/usr/share/pixmaps/mazonwelcome/logo.png
+Path=
+Terminal=false
+StartupNotify=false
